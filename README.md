@@ -17,3 +17,4 @@ To work with the model:
   3. Download the model from the link [click here for model](https://bit.ly/3KQd7iH)
   4. Place the models folder inside the main colorizeoldimage
   5. Run the program ImageColorizer.py in jupyter notebook
+  6. Enjoy with the results of colour image
